@@ -1,70 +1,110 @@
-# Getting Started with Create React App
+Here's a funny and dark `README.md` tailored for your **Centipede Project**—total surveillance edition:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+# **Centipede Project** 🕵️‍♂️🐛
 
-In the project directory, you can run:
+**Because Privacy is So 2019.** Welcome to the future: a world where you can’t make a move without us noticing—and we *love* noticing.  
 
-### `npm start`
+Centipede Project is the ultimate surveillance system masquerading as a React app. It's built for those who believe that every breath, blink, and questionable life choice should be recorded on the blockchain.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## **What is Centipede?**
 
-### `npm test`
+Centipede is not just a project; it's a **lifestyle choice** (or lack thereof). Think of it as Big Brother, but with more legs, a better UI, and absolutely no sense of personal boundaries.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Core Features:**  
+- 📡 *Quantum Behavioral Tracking:* Yes, we know what you're thinking. No, you can't stop us.  
+- 🔗 *Heartbeat-to-Blockchain™ Technology:* Your pulse? Public record. Romantic moments? Eternal. Awkward mistakes? Unforgettable.  
+- 👁 *Real-Time Behavior Scoring:* Why wait to be judged in the afterlife when you can be judged *now?*  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## **Getting Started (AKA, Signing Your Privacy Away)**  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **1. Installation**  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Run these commands, but remember, once you install, you belong to us:  
+```bash
+git clone https://github.com/artmikula/centipede.git
+cd centipede
+npm install
+npm start
+```
 
-### `npm run eject`
+### **2. Configuration**  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+There’s nothing to configure. We’ve already configured it for you. Trust us. Or don’t. Either way, it’s watching.  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## **How It Works**  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. **Open the app.** The homepage immediately connects to your webcam, microphone, and subconscious.  
+2. **Enter your name.** Or don’t. We already have it.  
+3. **Allow access to your biometric data.** Don’t worry, it’s just for “research.”  
+4. **Receive your behavior score.** If it’s low, we notify your mom.  
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## **Features (Because Big Brother Didn’t Go Far Enough)**  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **24/7 Surveillance:** Sleep? Monitored. Dreams? Rated. Secrets? Exposed.  
+- **Blockchain Storage:** Every mistake you’ve made, now *immutable*. Forever.   
+- **AI Mood Analysis:** Look happy, or we’ll flag you.  
+- **Peer Surveillance Bonuses:** Snitching on your friends has never been this rewarding!  
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## **Why Choose Centipede?**  
 
-### Analyzing the Bundle Size
+1. Tired of the crushing weight of privacy?  
+2. Want your life choices broadcast to the world?  
+3. Need help staying “compliant”?  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+If you answered “yes” (or even “maybe”), we’ve got you covered. Literally. With cameras.  
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## **Contributing (We’re Watching)**  
 
-### Advanced Configuration
+Contribute to Centipede, and earn bonus points on your behavior score:  
+1. Fork the repo.  
+2. Add something invasive (no privacy-respecting features allowed).  
+3. Submit a pull request.  
+4. Await judgment (and maybe a reward… or consequences).  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## **Known Issues**  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- **Data Overload:** Too much data to process? Don’t worry, we’re working on a human-consciousness-compression algorithm.  
+- **Users Complaining About Privacy Violations:** Our lawyers call that “a feature.”  
+- **Occasional Glitches:** Rare moments where you’re not being monitored. We’re working on it.  
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## **Disclaimer**  
+
+By using this app, you acknowledge that:  
+1. You waive all rights to privacy, free will, and decency.  
+2. All actions, thoughts, and mistakes will be recorded and monetized.  
+3. You’re kind of okay with that (right?).  
+
+---
+
+## **License**  
+
+Licensed under the **“Your Life is Our Content” Agreement**.  
+
+---
+
+## **Final Words**  
+
+Centipede Project: Where every move you make, every step you take, we’ll be watching you. Because what’s life without total, crushing accountability?  
+
+*(Don’t forget to smile—we’re tracking your mood.)*  
+
+---
+
