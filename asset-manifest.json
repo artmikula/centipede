@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/centipede/static/css/main.791e9790.css",
+    "main.js": "/centipede/static/js/main.c3cb4743.js",
+    "static/js/453.8b6df40f.chunk.js": "/centipede/static/js/453.8b6df40f.chunk.js",
+    "static/media/background-logo.png": "/centipede/static/media/background-logo.42cefdf7b1cc94764b7d.png",
+    "static/media/slide5.png": "/centipede/static/media/slide5.fb4e900fa9472352ab6b.png",
+    "static/media/slide1.png": "/centipede/static/media/slide1.be1b95f5c2ebd21aa811.png",
+    "static/media/slide2.png": "/centipede/static/media/slide2.fde20e42eb82ceb175b1.png",
+    "static/media/slide4.png": "/centipede/static/media/slide4.92f69ba7aeb3982a671c.png",
+    "static/media/main_bck.png": "/centipede/static/media/main_bck.216f882674293f611500.png",
+    "static/media/slide6.png": "/centipede/static/media/slide6.216f882674293f611500.png",
+    "index.html": "/centipede/index.html",
+    "main.791e9790.css.map": "/centipede/static/css/main.791e9790.css.map",
+    "main.c3cb4743.js.map": "/centipede/static/js/main.c3cb4743.js.map",
+    "453.8b6df40f.chunk.js.map": "/centipede/static/js/453.8b6df40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.791e9790.css",
+    "static/js/main.c3cb4743.js"
+  ]
+}
