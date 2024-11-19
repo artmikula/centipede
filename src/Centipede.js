@@ -6,7 +6,7 @@ import logo from './background-logo.png';
 const CentipedeEnhanced = () => {
   const features = [
     {
-      title: "Quantum Behavioral Tracking",
+      title: "Quantum Behavioral Tracking!",
       icon: "🧠",
       description:
         "Centipede’s patented Quantum Behavioral Tracking reads your thoughts, anticipates your needs, and reports your actions before you even make them. Why let your next move be private?",
