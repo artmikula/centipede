@@ -6,7 +6,7 @@ import logo from './background-logo.png';
 const CentipedeEnhanced = () => {
   const features = [
     {
-      title: "Quantum Behavioral Tracking!",
+      title: "Quantum Behavioral Tracking",
       icon: "🧠",
       description:
         "Centipede’s patented Quantum Behavioral Tracking reads your thoughts, anticipates your needs, and reports your actions before you even make them. Why let your next move be private?",
@@ -18,7 +18,7 @@ const CentipedeEnhanced = () => {
         "Centipede connects your biometric data directly to the blockchain. Every heartbeat, every glance, every sigh—it’s all recorded for posterity. Know yourself in a way no one ever should.",
     },
     {
-      title: "Track and Trace",
+      title: "Track and Trace!",
       icon: "👣",
       description:
         "Centipede leverages the power of blockchain to keep an unchangeable, public record of everything you do, everywhere you go, and every person you meet.",
