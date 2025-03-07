@@ -94,6 +94,8 @@ const CentipedeEnhanced = () => {
         </div>
         <div className="hero-section">
           <h1>$CENTI Centipede Chain</h1>
+          <h2><a href="https://tinyurl.com/centicenti">BUY NOW</a></h2>
+          <h4>CA: 7rXxRTeHxP1zQaCmUn6LWWqXVDp9Po5Denpnfzb35nmJ</h4>
           <h2>The Future of Full Surveillance</h2>
           <p className="tagline">
             "Where privacy is a thing of the past, and everyone is 100% accountable."
