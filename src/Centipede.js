@@ -2,8 +2,25 @@ import React from "react";
 import "./CentipedeEnhanced.css";
 import CarouselComponent from "./CarouselComponent";
 import logo from './background-logo.png';
+import BitcoinCycleCharts from "./BitcoinCycleCharts";
 
 const CentipedeEnhanced = () => {
+
+  const btcCycleData = [
+  { date: '2023-01', piCycle: 0, mrvrZScore: 1.2, puellMultiple: 0.8, exchangeInflows: 100 },
+  { date: '2023-02', piCycle: 0, mrvrZScore: 1.5, puellMultiple: 1.0, exchangeInflows: 120 },
+  { date: '2023-03', piCycle: 0, mrvrZScore: 2.0, puellMultiple: 1.2, exchangeInflows: 150 },
+  { date: '2023-04', piCycle: 1, mrvrZScore: 3.5, puellMultiple: 1.8, exchangeInflows: 300 },
+  { date: '2023-05', piCycle: 0, mrvrZScore: 3.8, puellMultiple: 2.0, exchangeInflows: 280 },
+  { date: '2023-06', piCycle: 0, mrvrZScore: 4.0, puellMultiple: 2.5, exchangeInflows: 260 },
+  { date: '2023-07', piCycle: 0, mrvrZScore: 3.9, puellMultiple: 2.3, exchangeInflows: 240 },
+  { date: '2023-08', piCycle: 0, mrvrZScore: 3.7, puellMultiple: 2.1, exchangeInflows: 220 },
+  { date: '2023-09', piCycle: 1, mrvrZScore: 3.6, puellMultiple: 1.9, exchangeInflows: 210 },
+  { date: '2023-10', piCycle: 0, mrvrZScore: 3.2, puellMultiple: 1.5, exchangeInflows: 190 },
+  { date: '2023-11', piCycle: 0, mrvrZScore: 2.8, puellMultiple: 1.2, exchangeInflows: 170 },
+  { date: '2023-12', piCycle: 0, mrvrZScore: 2.5, puellMultiple: 1.0, exchangeInflows: 150 }
+];
+
   const features = [
     {
       title: "Quantum Behavioral Tracking",
@@ -92,6 +109,7 @@ const CentipedeEnhanced = () => {
         <div style={{ display: "flex", alignItems: "center", justifyContent: "center" }}>
           <img src={logo} alt="Logo" style={{ maxHeight: "300px" }} />
         </div>
+          <BitcoinCycleCharts data={btcCycleData} />        
         <div className="hero-section">
           <h1>$CENTI Centipede Chain</h1>
           <h2><a href="https://tinyurl.com/centicenti">BUY NOW</a></h2>
